@@ -1,9 +1,0 @@
-git init
-git add README.md
-git commit -m "Cкрипник зробив завдання 17"
-git commit -m "Cкрипник зробив завдання 18"
-git commit -m "Cкрипник зробив завдання 19"
-git commit -m "Cкрипник зробив завдання 20"
-git remote add origin https://github.com/VitaliySkrypnyk/commits.git
-git push -u origin master
-
